@@ -1,0 +1,16 @@
+{
+  "name": "book-finder",
+  "version": "1.0.0",
+  "description": "making book search engine\u001b[C",
+  "main": "server.js\u001b[C",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "muizz",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2",
+    "nodemon": "^1.19.0"
+  }
+}
